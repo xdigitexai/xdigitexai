@@ -4,17 +4,40 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2800&pause=600&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=60&lines=Building+AI-powered+automation+%26+intelligent+agents;Production+web+platforms+%7C+APIs+%7C+Payment+systems;Xdigitex+AI+%E2%80%94+turning+workflows+into+intelligent+systems)](https://github.com/xdigitexai)
+# Juma Wycliffe
+
+### Founder · Software Engineer · AI Automation Builder
+
+[![Xdigitex AI](https://img.shields.io/badge/Xdigitex%20AI-00D4FF?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/xdigitexai)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/xdigitexai)
+
+<br/>
+
+**I build AI-powered software, automation systems, APIs, payment infrastructure, and production web platforms.**
+
+*Turning complex workflows into intelligent, executable systems.*
 
 </div>
 
 ---
 
-## 👨‍💻 About
+## 👋 About Me
 
-I'm **Juma Wycliffe**, founder of **[Xdigitex AI](https://github.com/xdigitexai)** — a software engineering studio and AI automation platform based in East Africa.
+I'm **Juma Wycliffe**, founder of **[Xdigitex AI](https://github.com/xdigitexai)** — a software engineering and AI automation studio based in East Africa.
 
-I design and build production-grade systems: AI-powered automation agents, SaaS web platforms, REST APIs, payment integrations, and intelligent workflows. Every project in my repositories is deployed, serving real users, solving real problems.
+I build and deploy software that does more than look good.
+
+My focus is on **systems that work in production** — from AI agents and automation infrastructure to SaaS platforms, APIs, payment systems, e-commerce applications, and business automation.
+
+I enjoy working at the intersection of:
+
+* 🤖 **Artificial Intelligence**
+* ⚙️ **Automation**
+* 🌐 **Web Engineering**
+* 🔌 **APIs & Integrations**
+* 💳 **Payments & FinTech**
+* 🚀 **Cloud & Infrastructure**
+* 📊 **Business Systems**
 
 ---
 
@@ -24,26 +47,43 @@ I design and build production-grade systems: AI-powered automation agents, SaaS 
 <tr>
 <td width="50%" valign="top">
 
-**🤖 AI & Automation**<br/>
-Autonomous agents, intelligent workflows, and AI-integrated backend systems. The Xdigitex AI platform orchestrates multi-step tasks via SSH, browser control, and tool chaining.
+### 🤖 AI & Intelligent Agents
 
-**🌐 Web Platforms & SaaS**<br/>
-Full-stack web applications — social media marketing panels, news platforms, e-commerce systems, ordering platforms, and ministry/charity sites — deployed across multiple brands.
+AI-powered systems capable of planning and executing multi-step tasks using tools, APIs, SSH, browsers, background workers, and external services.
 
-**💳 Payments & FinTech**<br/>
-M-Pesa mobile money integration, multi-provider PHP payment gateways, checkout flows, and automated transaction handling across multiple platforms.
+**Focus:** agent orchestration · tool calling · automation · memory · task execution
 
 </td>
+
 <td width="50%" valign="top">
 
-**🔌 APIs & Backend Services**<br/>
-Node.js/Express REST APIs, PHP backends, Laravel service layers, and bot deployment APIs. Versioned, structured, and consumed by multiple frontend clients.
+### 🌐 SaaS & Web Platforms
 
-**🛒 E-Commerce & POS**<br/>
-Custom e-commerce systems, shopping carts, point-of-sale terminals, product management, and multi-store ordering platforms with live delivery tracking.
+Production-ready platforms for businesses, creators, retailers, organizations, and digital service providers.
 
-**🚀 Deployment & Infrastructure**<br/>
-Automated deployment pipelines, PM2 process management, Apache/cPanel hosting, Heroku deployments, and multi-service orchestration across VPS infrastructure.
+**Focus:** authentication · dashboards · APIs · payments · automation · multi-tenant systems
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 💳 Payment Infrastructure
+
+Payment integrations connecting applications to mobile money, cards, payment gateways, webhooks, and automated transaction processing.
+
+**Focus:** M-Pesa · mobile money · cards · webhooks · transaction verification
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🚀 Infrastructure & Deployment
+
+I build systems that can actually be deployed, monitored, maintained, and scaled.
+
+**Focus:** Linux · VPS · Nginx · Apache · PM2 · cPanel · APIs · workers · automation
 
 </td>
 </tr>
@@ -51,171 +91,269 @@ Automated deployment pipelines, PM2 process management, Apache/cPanel hosting, H
 
 ---
 
-## 🛠 Technology Stack
+## 🧠 Technology Stack
 
-**AI & Automation**<br/>
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![PM2](https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=pm2&logoColor=white)
+### AI & Automation
 
-**Backend & Web Platforms**<br/>
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=nodedotjs\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square\&logo=openai\&logoColor=white)
+![PM2](https://img.shields.io/badge/PM2-2B037A?style=flat-square\&logo=pm2\&logoColor=white)
 
-**Frontend**<br/>
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
-![Twig](https://img.shields.io/badge/Twig-bacf29?style=flat-square&logo=symfony&logoColor=black)
+### Backend
 
-**Databases**<br/>
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square\&logo=php\&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square\&logo=laravel\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=nodedotjs\&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square\&logo=express\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
 
-**Payments & Integrations**<br/>
-![M-Pesa](https://img.shields.io/badge/M--Pesa-00A651?style=flat-square&logo=mpesa&logoColor=white)
-![GitHub API](https://img.shields.io/badge/GitHub_API-181717?style=flat-square&logo=github&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-FF6B35?style=flat-square&logo=fastapi&logoColor=white)
+### Frontend
 
-**Infrastructure**<br/>
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat-square\&logo=sass\&logoColor=white)
+![Twig](https://img.shields.io/badge/Twig-BACF29?style=flat-square\&logo=symfony\&logoColor=black)
+
+### Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square\&logo=postgresql\&logoColor=white)
+
+### APIs & Payments
+
+![M-Pesa](https://img.shields.io/badge/M--Pesa-00A651?style=flat-square\&logo=mpesa\&logoColor=white)
+![REST](https://img.shields.io/badge/REST%20APIs-FF6B35?style=flat-square)
+![GitHub API](https://img.shields.io/badge/GitHub%20API-181717?style=flat-square\&logo=github\&logoColor=white)
+![Webhooks](https://img.shields.io/badge/Webhooks-6366F1?style=flat-square)
+
+### Infrastructure
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square\&logo=nginx\&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=flat-square\&logo=apache\&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square\&logo=heroku\&logoColor=white)
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
-### 🤖 [Xdigitex AI](https://github.com/xdigitexai/Xdigitex-AI-)
-**AI automation platform**
+## 🤖 Xdigitex AI
 
-Autonomous agent system that executes multi-step workflows via SSH, browser automation, and tool chaining. Routes tasks through OpenAI, manages persistent conversation state, and runs background workers — all orchestrated through a real-time SSE event stream.
+**AI Automation Platform**
+
+[View Repository →](https://github.com/xdigitexai/Xdigitex-AI-)
+
+An AI agent platform designed to execute real-world software tasks using tools, APIs, SSH, browser automation, background workers, and persistent task state.
+
+**Stack**
 
 `Node.js` `TypeScript` `OpenAI` `PostgreSQL` `SSE` `PM2`
 
 </td>
+
 <td width="50%" valign="top">
 
-### 📱 [FKM Booste](https://fkmbooste.com)
-**Social media marketing SaaS**
+## 📱 FKM Booste
 
-Full-featured SMM panel: automated service delivery, multi-gateway payments (M-Pesa, AssanPay), child/reseller panel management, cron-based order processing, and a customer dashboard. One of several white-label deployments across East Africa.
+**Social Media Marketing Platform**
+
+[Visit Platform →](https://fkmbooste.com)
+
+A production SMM platform with automated service delivery, payment integrations, order processing, reseller/child panels, customer dashboards, and background automation.
+
+**Stack**
 
 `Laravel` `PHP` `Twig` `MySQL` `M-Pesa`
 
 </td>
+
 </tr>
+
 <tr>
+
 <td width="50%" valign="top">
 
-### 🗞 [Equator Voice Africa](https://equatorvoiceafrica.com)
-**East African news & media platform**
+## 🗞 Equator Voice Africa
 
-Independent digital news platform serving East African readers — articles, categories, community story submissions, full-text search, Google News XML sitemaps, and advertising integration.
+**Digital News & Media Platform**
+
+[Visit Platform →](https://equatorvoiceafrica.com)
+
+A digital publishing platform featuring articles, categories, search, community submissions, SEO infrastructure, XML sitemaps, and advertising integration.
+
+**Stack**
 
 `PHP` `MySQL` `Apache` `SEO`
 
 </td>
+
 <td width="50%" valign="top">
 
-### 💳 [Payment Portal](https://github.com/xdigitexai/payment-portal)
-**Multi-provider payment gateway**
+## 💳 Payment Portal
 
-PHP payment gateway supporting multiple providers — card processing, mobile money, and webhook-based confirmation flows. Deployed across multiple client projects.
+**Multi-Provider Payment Infrastructure**
 
-`PHP` `M-Pesa` `MySQL` `Webhooks`
+[View Repository →](https://github.com/xdigitexai/payment-portal)
+
+A reusable PHP payment layer connecting applications with payment providers, mobile money, card payments, webhooks, transaction verification, and automated payment flows.
+
+**Stack**
+
+`PHP` `MySQL` `M-Pesa` `Webhooks`
 
 </td>
+
 </tr>
+
 <tr>
+
 <td width="50%" valign="top">
 
-### 🛒 [POS Xdigitex](https://github.com/xdigitexai/pos-xdigitex)
-**Point of sale system**
+## 🛒 POS Xdigitex
 
-Inventory management, sales tracking, receipt generation, and reporting — a full POS terminal built in PHP, deployed for retail operations.
+**Point of Sale System**
 
-`PHP` `MySQL` `CSS`
+[View Repository →](https://github.com/xdigitexai/pos-xdigitex)
+
+A retail POS platform covering inventory, sales, receipts, reporting, and day-to-day store operations.
+
+**Stack**
+
+`PHP` `MySQL` `HTML` `CSS`
 
 </td>
+
 <td width="50%" valign="top">
 
-### 🌐 [Client Gateway Portal](https://github.com/xdigitexai/client-gateway-portal)
-**Customer access & auth portal**
+## 🌐 Client Gateway Portal
 
-TypeScript-based gateway managing customer authentication, session management, and access control — shared across multiple Xdigitex service products.
+**Authentication & Service Gateway**
+
+[View Repository →](https://github.com/xdigitexai/client-gateway-portal)
+
+A TypeScript/Node.js gateway providing authentication, sessions, access control, and service integration across Xdigitex products.
+
+**Stack**
 
 `TypeScript` `Node.js` `Express`
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-## ⚡ Automation & AI
+# ⚙️ Automation Systems
 
-The automation capabilities running across my repositories:
+A major part of my work is connecting independent systems so they can operate automatically.
 
-| Type | Description |
-|---|---|
-| 🤖 **AI Agent Orchestration** | Multi-step autonomous task execution with tool use, SSH control, and browser automation |
-| 📦 **Order Automation** | Cron-based service delivery with retry logic across SMM platforms |
-| 💰 **Payment Automation** | Automated webhook handling, transaction processing, and balance management |
-| 🚀 **Deployment Automation** | Scripted deploy pipelines, PM2 restart flows, and Heroku bot APIs |
-| 🔄 **API Automation** | GitHub API integration for bulk repository management, metadata, and README generation |
-| 📊 **Business Automation** | Multi-brand platform management from a single codebase — white-label SaaS |
-
----
-
-## 🔨 Currently Building
-
-- **Xdigitex AI** — Expanding the autonomous agent platform with multi-tool orchestration, richer memory systems, and smarter task routing
-- **Multi-brand SaaS** — Scaling the SMM panel infrastructure across new markets in East Africa
-- **Payment infrastructure** — Broader mobile money and card gateway coverage for East African platforms
+| System                       | What it does                                                             |
+| ---------------------------- | ------------------------------------------------------------------------ |
+| 🤖 **AI Agents**             | Plans and executes multi-step tasks using tools and external services    |
+| 🔄 **Workflow Automation**   | Connects APIs, workers, databases, and business logic                    |
+| 💳 **Payment Automation**    | Processes transactions, validates webhooks, and updates balances         |
+| 📦 **Order Automation**      | Processes orders with background workers, retries, and status tracking   |
+| 🚀 **Deployment Automation** | Automates application deployments, process management, and restarts      |
+| 🔌 **API Automation**        | Connects platforms through REST APIs, webhooks, and third-party services |
+| 🏢 **Business Automation**   | Turns repetitive business operations into software workflows             |
 
 ---
 
-## 📈 Building in Public
+# 🏗️ Engineering Philosophy
+
+I don't build software simply to demonstrate a technology.
+
+I build systems around a simple principle:
+
+> **If a human can repeatedly do it, software should be able to automate it.**
+
+That means thinking beyond the frontend:
+
+**Interface → Backend → Database → APIs → Automation → Infrastructure → Monitoring**
+
+A beautiful interface is only one part of a production system.
+
+---
+
+# 🔥 Currently Building
+
+### Xdigitex AI
+
+Expanding the AI agent platform with:
+
+* Multi-tool agent orchestration
+* Persistent memory
+* Intelligent task routing
+* Background execution
+* Browser and SSH automation
+* Real-time execution events
+* External API integrations
+
+### 🌍 Multi-Brand SaaS Infrastructure
+
+Building reusable infrastructure that allows multiple businesses and brands to operate on shared technology while maintaining independent configurations and services.
+
+### 💳 Payment Infrastructure
+
+Expanding payment infrastructure for mobile money, cards, regional payment providers, automated verification, and cross-platform transaction processing.
+
+---
+
+# 📊 GitHub
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=xdigitexai&theme=dark&hide_border=true&ring=00D4FF&fire=7C3AED&currStreakLabel=00D4FF&sideLabels=8B949E&dates=8B949E&background=0D1117)](https://github.com/xdigitexai)
+![GitHub Streak](https://streak-stats.demolab.com?user=xdigitexai\&theme=dark\&hide_border=true\&ring=00D4FF\&fire=7C3AED\&currStreakLabel=00D4FF\&sideLabels=8B949E\&dates=8B949E\&background=0D1117)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xdigitexai&show_icons=true&theme=github_dark&hide_border=true&icon_color=00D4FF&title_color=00D4FF&text_color=8b949e&count_private=true)](https://github.com/xdigitexai)
+<br/>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xdigitexai\&show_icons=true\&theme=github_dark\&hide_border=true\&icon_color=00D4FF\&title_color=00D4FF\&text_color=8B949E\&count_private=true)
 
 </div>
 
 ---
 
-## 👤 Founder
+# 👤 Founder
 
-> **Juma Wycliffe**
-> Founder — Xdigitex AI
->
-> Building practical AI automation systems and software infrastructure that turn complex workflows into intelligent, executable systems. Every product I ship is production-grade, serving real users across East Africa and beyond.
+<div align="center">
+
+### Juma Wycliffe
+
+**Founder & Software Engineer — Xdigitex AI**
+
+I build practical AI systems, automation infrastructure, and software platforms designed to solve real operational problems.
+
+**AI · Automation · Software Engineering · Infrastructure**
+
+</div>
 
 ---
 
-## 📬 Contact
+# 🌐 Connect
 
-| | |
-|---|---|
-| 🐙 **GitHub** | [github.com/xdigitexai](https://github.com/xdigitexai) |
-| 🌐 **Platform** | [api.xdigitex.space](https://api.xdigitex.space) |
-| 📡 **Live Projects** | [fkmbooste.com](https://fkmbooste.com) · [equatorvoiceafrica.com](https://equatorvoiceafrica.com) · [legrandmalaba.com](https://legrandmalaba.com) · [digitexsmartsolutions.com](https://digitexsmartsolutions.com) |
-| 📞 **Phone** | +254 707 254 685 |
+|                                |                                                                                  |
+| ------------------------------ | -------------------------------------------------------------------------------- |
+| 🐙 **GitHub**                  | [github.com/xdigitexai](https://github.com/xdigitexai)                           |
+| 🤖 **Xdigitex AI**             | [github.com/xdigitexai/Xdigitex-AI-](https://github.com/xdigitexai/Xdigitex-AI-) |
+| 🌐 **Platform**                | [api.xdigitex.space](https://api.xdigitex.space)                                 |
+| 📱 **FKM Booste**              | [fkmbooste.com](https://fkmbooste.com)                                           |
+| 🗞 **Equator Voice Africa**    | [equatorvoiceafrica.com](https://equatorvoiceafrica.com)                         |
+| 🌍 **Le Grand Malaba**         | [legrandmalaba.com](https://legrandmalaba.com)                                   |
+| 💻 **Digitex Smart Solutions** | [digitexsmartsolutions.com](https://digitexsmartsolutions.com)                   |
 
 ---
 
 <div align="center">
-<sub>Built with ⚡ by Juma Wycliffe · Xdigitex AI · East Africa</sub>
+
+### ⚡ Building the infrastructure behind intelligent software.
+
+**Xdigitex AI · East Africa · 2026**
+
 </div>
