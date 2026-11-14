@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 250" width="1200" height="250">
+<defs>
+  <linearGradient id="ctaG" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#131a2c"/><stop offset="1" stop-color="#1a1033"/>
+  </linearGradient>
+  <linearGradient id="shim" gradientUnits="objectBoundingBox" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#00d4ff"/><stop offset=".5" stop-color="#a78bfa"/><stop offset="1" stop-color="#00d4ff"/>
+    <animate attributeName="x1" values="-0.4;1.4;-0.4" dur="5s" repeatCount="indefinite"/>
+    <animate attributeName="x2" values="0;1.8;0" dur="5s" repeatCount="indefinite"/>
+  </linearGradient>
+  <linearGradient id="bgG" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#00d4ff"/><stop offset="1" stop-color="#7c3aed"/>
+  </linearGradient>
+  <filter id="b6" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="6"/></filter>
+  <style>
+    
+  .pt { animation-name: fl; animation-timing-function: ease-in-out; animation-iteration-count: infinite; animation-direction: alternate; }
+  @keyframes fl { from { transform: translateY(8px); opacity: .15; } to { transform: translateY(-30px); opacity: .85; } }
+    .t { animation: rise .6s ease both; }
+    @keyframes rise { from { opacity: 0; transform: translateY(14px); } to { opacity: 1; transform: translateY(0); } }
+    .btnG { animation: bg 3s ease-in-out infinite; }
+    @keyframes bg { 0%,100% { opacity: .35; } 50% { opacity: .8; } }
+    .btnO { animation: bo 4s ease-in-out infinite; }
+    @keyframes bo { 0%,100% { opacity: .3; } 50% { opacity: .6; } }
+  </style>
+</defs>
+<rect width="1200" height="250" rx="18" fill="url(#ctaG)" stroke="url(#bgG)" stroke-width="1.5"/>
+<circle class="pt" cx="519" cy="112" r="1.5665680626407266" fill="#7c3aed" style="animation-duration:11s;animation-delay:-9s" opacity="0.4"/>
+  <circle class="pt" cx="1044" cy="86" r="1.8856882178224623" fill="#00d4ff" style="animation-duration:8s;animation-delay:-3s" opacity="0.4"/>
+  <circle class="pt" cx="736" cy="85" r="1.1938964370638132" fill="#00d4ff" style="animation-duration:8s;animation-delay:-6s" opacity="0.4"/>
+  <circle class="pt" cx="988" cy="13" r="1.9773544780910015" fill="#7c3aed" style="animation-duration:11s;animation-delay:-5s" opacity="0.4"/>
+  <circle class="pt" cx="117" cy="167" r="2.609062112402171" fill="#00d4ff" style="animation-duration:12s;animation-delay:-6s" opacity="0.4"/>
+  <circle class="pt" cx="220" cy="83" r="1.7634644987992942" fill="#7c3aed" style="animation-duration:12s;animation-delay:-4s" opacity="0.4"/>
+  <circle class="pt" cx="466" cy="232" r="2.1638469509780407" fill="#00d4ff" style="animation-duration:9s;animation-delay:-9s" opacity="0.4"/>
+<g class="t">
+  <text x="600" y="92" text-anchor="middle" font-family="system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="38" font-weight="800" fill="url(#shim)">Let’s build something intelligent.</text>
+  <text x="600" y="128" text-anchor="middle" font-family="system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="16" fill="#8b949e">Investments · Partnerships · Platform builds — we design, engineer and ship.</text>
+</g>
+<g class="t" style="animation-delay:.25s">
+  <rect x="368" y="158" width="218" height="54" rx="27" fill="#00d4ff" opacity=".28" filter="url(#b6)" class="btnG"/>
+  <rect x="368" y="158" width="218" height="54" rx="27" fill="url(#bgG)"/>
+  <text x="477" y="192" text-anchor="middle" font-family="system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="18" font-weight="700" fill="#06121a">🌐 xdigitex.space</text>
+</g>
+<g class="t" style="animation-delay:.4s">
+  <rect x="614" y="158" width="218" height="54" rx="27" fill="#00d4ff" opacity=".15" filter="url(#b6)" class="btnO"/>
+  <rect x="614" y="158" width="218" height="54" rx="27" fill="none" stroke="#00d4ff" stroke-width="1.5"/>
+  <text x="723" y="192" text-anchor="middle" font-family="system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="17" font-weight="600" fill="#00d4ff">✉ xdigitexai@gmail.com</text>
+</g>
+</svg>

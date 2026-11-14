@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 280" width="700" height="280">
+<defs>
+  <linearGradient id="ig" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#00d4ff"/><stop offset="1" stop-color="#7c3aed"/>
+  </linearGradient>
+  <linearGradient id="seg" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#00d4ff" stop-opacity="0"/><stop offset=".5" stop-color="#00d4ff"/><stop offset="1" stop-color="#00d4ff" stop-opacity="0"/>
+  </linearGradient>
+  <linearGradient id="cardG" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#161b22"/><stop offset="1" stop-color="#151a26"/>
+  </linearGradient>
+  <radialGradient id="orbP"><stop offset="0" stop-color="#7c3aed" stop-opacity=".5"/><stop offset="1" stop-color="#7c3aed" stop-opacity="0"/></radialGradient>
+  <style>
+    .t { animation: rise .55s ease both; }
+    @keyframes rise { from { opacity: 0; transform: translateY(14px); } to { opacity: 1; transform: translateY(0); } }
+    .sweep { animation: sw 3.6s linear infinite; }
+    @keyframes sw { from { transform: translateX(-230px); } to { transform: translateX(930px); } }
+    .orb { animation: op 3.5s ease-in-out infinite; }
+    @keyframes op { 0%,100% { opacity: .5; } 50% { opacity: 1; } }
+    .ring { animation: ring 2s ease-out infinite; transform-box: fill-box; transform-origin: center; }
+    @keyframes ring { 0% { transform: scale(.4); opacity: .9; } 100% { transform: scale(2.2); opacity: 0; } }
+    .dot { animation: dp 2s ease-in-out infinite; }
+    @keyframes dp { 0%,100% { opacity: 1; } 50% { opacity: .45; } }
+    .arrow { animation: ar 2.2s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+    @keyframes ar { 0%,100% { transform: translate(0,0); opacity: .8; } 50% { transform: translate(4px,-4px); opacity: 1; } }
+  </style>
+</defs>
+<rect width="700" height="280" rx="16" fill="url(#cardG)" stroke="#30363d" stroke-width="1.2"/>
+<rect class="sweep" x="0" y="0" width="230" height="3" fill="url(#seg)"/>
+<rect x="0" y="0" width="4" height="280" fill="url(#ig)" opacity=".9"/>
+<circle cx="700" cy="280" r="130" fill="url(#orbP)" opacity=".12" class="orb"/>
+
+<g class="t">
+  <rect x="560" y="26" width="102" height="30" rx="15" fill="#0d1117" stroke="#30363d"/>
+  <circle class="dot" cx="580" cy="41" r="5" fill="#3fb950"/>
+  <circle class="ring" cx="580" cy="41" r="6" fill="none" stroke="#3fb950" stroke-width="1.5"/>
+  <text x="592" y="46" font-family="'Cascadia Code','SF Mono',Consolas,Menlo,monospace" font-size="13.5" letter-spacing="1.5" fill="#3fb950">LIVE</text>
+  <text x="664" y="44" text-anchor="end" font-family="system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="30" fill="#00d4ff" class="arrow">↗</text>
+
+  <text x="44" y="98" font-family="system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="34" font-weight="700" fill="#f0f6fc">FKM Booste</text>
+  <text x="44" y="130" font-family="system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="17" font-weight="600" fill="#00d4ff">SMM Automation Platform</text>
+  <text x="44" y="162" font-family="system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="15" fill="#8b949e">Automated service delivery, orders, resellers and M-Pesa payments.</text>
+  
+  <rect x="44" y="212" width="81.30000000000001" height="28" rx="14" fill="#1c2128" stroke="#30363d" stroke-width="1.1"/>
+  <text x="84.65" y="230" text-anchor="middle" font-family="'Cascadia Code','SF Mono',Consolas,Menlo,monospace" font-size="12.5" fill="#a78bfa">LARAVEL</text>
+  <rect x="139.3" y="212" width="65.5" height="28" rx="14" fill="#1c2128" stroke="#30363d" stroke-width="1.1"/>
+  <text x="172.05" y="230" text-anchor="middle" font-family="'Cascadia Code','SF Mono',Consolas,Menlo,monospace" font-size="12.5" fill="#a78bfa">MYSQL</text>
+  <rect x="218.8" y="212" width="73.4" height="28" rx="14" fill="#1c2128" stroke="#30363d" stroke-width="1.1"/>
+  <text x="255.5" y="230" text-anchor="middle" font-family="'Cascadia Code','SF Mono',Consolas,Menlo,monospace" font-size="12.5" fill="#a78bfa">M-PESA</text>
+  <text x="656" y="252" text-anchor="end" font-family="'Cascadia Code','SF Mono',Consolas,Menlo,monospace" font-size="13" fill="#00d4ff">OPEN LIVE SITE ↗</text>
+</g>
+</svg>

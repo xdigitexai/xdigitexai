@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 620" width="1200" height="620">
+<defs>
+  <linearGradient id="ig" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#00d4ff"/><stop offset="1" stop-color="#7c3aed"/>
+  </linearGradient>
+  <radialGradient id="glowC"><stop offset="0" stop-color="#00d4ff" stop-opacity=".35"/><stop offset="1" stop-color="#00d4ff" stop-opacity="0"/></radialGradient>
+  <radialGradient id="glowP"><stop offset="0" stop-color="#7c3aed" stop-opacity=".35"/><stop offset="1" stop-color="#7c3aed" stop-opacity="0"/></radialGradient>
+  <style>
+    .t { animation: rise .6s ease both; }
+    @keyframes rise { from { opacity: 0; transform: translateY(16px); } to { opacity: 1; transform: translateY(0); } }
+    .gp { animation: gp 3.5s ease-in-out infinite; }
+    @keyframes gp { 0%,100% { opacity: .45; } 50% { opacity: 1; } }
+  </style>
+</defs>
+
+  <g class="t" style="animation-delay:0s">
+    <rect x="40" y="40" width="560" height="250" rx="18" fill="#161b22" stroke="#30363d" stroke-width="1.2"/>
+    <rect x="40" y="40" width="4" height="250" fill="url(#ig)"/>
+    <circle cx="76" cy="76" r="34" fill="url(#glowC)" class="gp" style="animation-delay:0s"/>
+    <rect x="50" y="50" width="52" height="52" rx="14" fill="#1c2128" stroke="#30363d"/>
+    <circle cx="92" cy="98" r="15" stroke="url(#ig)" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <path d="M92 83 v-8" stroke="url(#ig)" stroke-width="3" fill="none" stroke-linecap="round"/><circle cx="92" cy="72" r="2.5" fill="#00d4ff"/>
+  <circle cx="86" cy="98" r="2" fill="#00d4ff"/><circle cx="98" cy="98" r="2" fill="#00d4ff"/>
+  <path d="M82 108 h20" stroke="url(#ig)" stroke-width="3" fill="none" stroke-linecap="round"/>
+    <text x="176" y="116" font-family="system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="29" font-weight="700" fill="#f0f6fc">AI Agents &amp; Automation</text>
+    <text x="176" y="152" font-family="system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="15" fill="#8b949e">Agents that call tools, APIs and databases</text>
+    <text x="176" y="174" font-family="system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="15" fill="#8b949e">to execute multi-step work on their own.</text>
+    
+    <rect x="176" y="232" width="160.3" height="28" rx="14" fill="#1c2128" stroke="#30363d" stroke-width="1.1"/>
+    <text x="256.15" y="250" text-anchor="middle" font-family="'Cascadia Code','SF Mono',Consolas,Menlo,monospace" font-size="12.5" fill="#7dd3fc">LLM ORCHESTRATION</text>
+    <rect x="350.3" y="232" width="120.80000000000001" height="28" rx="14" fill="#1c2128" stroke="#30363d" stroke-width="1.1"/>
+    <text x="410.70000000000005" y="250" text-anchor="middle" font-family="'Cascadia Code','SF Mono',Consolas,Menlo,monospace" font-size="12.5" fill="#7dd3fc">TOOL CALLING</text>
+    <rect x="485.1" y="232" width="73.4" height="28" rx="14" fill="#1c2128" stroke="#30363d" stroke-width="1.1"/>
+    <text x="521.8000000000001" y="250" text-anchor="middle" font-family="'Cascadia Code','SF Mono',Consolas,Menlo,monospace" font-size="12.5" fill="#7dd3fc">MEMORY</text>
+  </g>
+  <g class="t" style="animation-delay:0.14s">
+    <rect x="640" y="40" width="560" height="250" rx="18" fill="#161b22" stroke="#30363d" stroke-width="1.2"/>
+    <rect x="640" y="40" width="4" height="250" fill="url(#ig)"/>
+    <circle cx="676" cy="76" r="34" fill="url(#glowP)" class="gp" style="animation-delay:0.5s"/>
+    <rect x="650" y="50" width="52" height="52" rx="14" fill="#1c2128" stroke="#30363d"/>
+    <rect x="671" y="72" width="42" height="13" rx="3" stroke="url(#ig)" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <rect x="671" y="89" width="42" height="13" rx="3" stroke="url(#ig)" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <rect x="671" y="106" width="42" height="13" rx="3" stroke="url(#ig)" stroke-width="3" fill="none" stroke-linecap="round"/>
+    <text x="776" y="116" font-family="system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="29" font-weight="700" fill="#f0f6fc">SaaS Platforms</text>
+    <text x="776" y="152" font-family="system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="15" fill="#8b949e">Multi-tenant products with auth, billing,</text>
+    <text x="776" y="174" font-family="system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="15" fill="#8b949e">dashboards and realtime workflows.</text>
+    
+    <rect x="776" y="232" width="81.30000000000001" height="28" rx="14" fill="#1c2128" stroke="#30363d" stroke-width="1.1"/>
+    <text x="816.65" y="250" text-anchor="middle" font-family="'Cascadia Code','SF Mono',Consolas,Menlo,monospace" font-size="12.5" fill="#a78bfa">NEXT.JS</text>
+    <rect x="871.3" y="232" width="105" height="28" rx="14" fill="#1c2128" stroke="#30363d" stroke-width="1.1"/>
+    <text x="923.8" y="250" text-anchor="middle" font-family="'Cascadia Code','SF Mono',Consolas,Menlo,monospace" font-size="12.5" fill="#a78bfa">POSTGRESQL</text>
+    <rect x="990.3" y="232" width="73.4" height="28" rx="14" fill="#1c2128" stroke="#30363d" stroke-width="1.1"/>
+    <text x="1027" y="250" text-anchor="middle" font-family="'Cascadia Code','SF Mono',Consolas,Menlo,monospace" font-size="12.5" fill="#a78bfa">PRISMA</text>
+  </g>
+  <g class="t" style="animation-delay:0.28s">
+    <rect x="40" y="330" width="560" height="250" rx="18" fill="#161b22" stroke="#30363d" stroke-width="1.2"/>
+    <rect x="40" y="330" width="4" height="250" fill="url(#ig)"/>
+    <circle cx="76" cy="366" r="34" fill="url(#glowP)" class="gp" style="animation-delay:1s"/>
+    <rect x="50" y="340" width="52" height="52" rx="14" fill="#1c2128" stroke="#30363d"/>
+    <rect x="69" y="366" width="46" height="32" rx="6" stroke="url(#ig)" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <path d="M69 380 h46" stroke="url(#ig)" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <rect x="80" y="388" width="12" height="9" rx="2" fill="#00d4ff" opacity=".8"/>
+    <text x="176" y="406" font-family="system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="29" font-weight="700" fill="#f0f6fc">Payments &amp; Fintech</text>
+    <text x="176" y="442" font-family="system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="15" fill="#8b949e">Mobile money, wallets, webhooks and</text>
+    <text x="176" y="464" font-family="system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="15" fill="#8b949e">double-entry ledgers — fail-closed by design.</text>
+    
+    <rect x="176" y="522" width="73.4" height="28" rx="14" fill="#1c2128" stroke="#30363d" stroke-width="1.1"/>
+    <text x="212.7" y="540" text-anchor="middle" font-family="'Cascadia Code','SF Mono',Consolas,Menlo,monospace" font-size="12.5" fill="#a78bfa">M-PESA</text>
+    <rect x="263.4" y="522" width="81.30000000000001" height="28" rx="14" fill="#1c2128" stroke="#30363d" stroke-width="1.1"/>
+    <text x="304.04999999999995" y="540" text-anchor="middle" font-family="'Cascadia Code','SF Mono',Consolas,Menlo,monospace" font-size="12.5" fill="#a78bfa">LEDGERS</text>
+    <rect x="358.7" y="522" width="89.2" height="28" rx="14" fill="#1c2128" stroke="#30363d" stroke-width="1.1"/>
+    <text x="403.3" y="540" text-anchor="middle" font-family="'Cascadia Code','SF Mono',Consolas,Menlo,monospace" font-size="12.5" fill="#a78bfa">WEBHOOKS</text>
+  </g>
+  <g class="t" style="animation-delay:0.42000000000000004s">
+    <rect x="640" y="330" width="560" height="250" rx="18" fill="#161b22" stroke="#30363d" stroke-width="1.2"/>
+    <rect x="640" y="330" width="4" height="250" fill="url(#ig)"/>
+    <circle cx="676" cy="366" r="34" fill="url(#glowC)" class="gp" style="animation-delay:1.5s"/>
+    <rect x="650" y="340" width="52" height="52" rx="14" fill="#1c2128" stroke="#30363d"/>
+    <path d="M668 386 a11 11 0 0 1 9 -17 a14 14 0 0 1 27 -1 a10.5 10.5 0 0 1 3 19 z" stroke="url(#ig)" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <circle cx="678" cy="398" r="2.5" fill="#7c3aed"/><circle cx="702" cy="400" r="2.5" fill="#7c3aed"/>
+  <path d="M678 398 L702 400" stroke="#7c3aed" stroke-width="1.5" opacity=".6"/>
+    <text x="776" y="406" font-family="system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="29" font-weight="700" fill="#f0f6fc">Cloud &amp; Infrastructure</text>
+    <text x="776" y="442" font-family="system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="15" fill="#8b949e">Real machines provisioned for AI agents,</text>
+    <text x="776" y="464" font-family="system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="15" fill="#8b949e">operated from a live control plane.</text>
+    
+    <rect x="776" y="522" width="81.30000000000001" height="28" rx="14" fill="#1c2128" stroke="#30363d" stroke-width="1.1"/>
+    <text x="816.65" y="540" text-anchor="middle" font-family="'Cascadia Code','SF Mono',Consolas,Menlo,monospace" font-size="12.5" fill="#7dd3fc">PROXMOX</text>
+    <rect x="871.3" y="522" width="73.4" height="28" rx="14" fill="#1c2128" stroke="#30363d" stroke-width="1.1"/>
+    <text x="908" y="540" text-anchor="middle" font-family="'Cascadia Code','SF Mono',Consolas,Menlo,monospace" font-size="12.5" fill="#7dd3fc">DOCKER</text>
+    <rect x="958.6999999999999" y="522" width="65.5" height="28" rx="14" fill="#1c2128" stroke="#30363d" stroke-width="1.1"/>
+    <text x="991.4499999999999" y="540" text-anchor="middle" font-family="'Cascadia Code','SF Mono',Consolas,Menlo,monospace" font-size="12.5" fill="#7dd3fc">LINUX</text>
+  </g>
+</svg>

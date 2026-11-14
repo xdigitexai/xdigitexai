@@ -1,112 +1,74 @@
 <div align="center">
+  <a href="https://xdigitex.space"><img src="assets/hero.svg" width="100%" alt="Xdigitex AI — AI · Automation · SaaS · Payments · Cloud"/></a>
+</div>
 
-<a href="https://github.com/xdigitexai">
-
-<img src="https://raw.githubusercontent.com/xdigitexai/xdigitexai/main/assets/hero.svg" alt="Xdigitex AI" width="100%"/>
-
-</a>
+<div align="center">
+  <a href="https://github.com/xdigitexai"><img src="https://img.shields.io/github/followers/xdigitexai?style=flat-square&logo=github&label=Follow&color=00D4FF&labelColor=0D1117" alt="GitHub followers"/></a>
+  <a href="https://xdigitex.space"><img src="https://img.shields.io/badge/Portfolio-xdigitex.space-7C3AED?style=flat-square&logo=globe&logoColor=white&labelColor=0D1117" alt="Portfolio"/></a>
+  <a href="mailto:xdigitexai@gmail.com"><img src="https://img.shields.io/badge/Email-xdigitexai%40gmail.com-30363D?style=flat-square&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email"/></a>
+  <img src="https://komarev.com/ghpvc/?username=xdigitexai&style=flat-square&color=00D4FF&label=PROFILE+VIEWS" alt="Profile views"/>
+</div>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=00D4FF&center=true&vCenter=true&width=850&lines=Juma+Wycliffe+%7C+Founder+%26+Software+Engineer;Building+AI-powered+automation+systems;Designing+production-grade+SaaS+%26+APIs;Engineering+payment+%26+business+infrastructure;Turning+complex+workflows+into+intelligent+systems" alt="Typing animation"/>
-
-<br/><br/>
-
-<a href="https://github.com/xdigitexai">
-<img src="https://img.shields.io/github/followers/xdigitexai?label=Followers&style=flat-square&color=00D4FF&labelColor=0D1117"/>
-</a>
-<a href="https://github.com/xdigitexai?tab=repositories">
-<img src="https://img.shields.io/badge/Public%20Repositories-15-7C3AED?style=flat-square&labelColor=0D1117"/>
-</a>
-<a href="https://github.com/xdigitexai">
-<img src="https://komarev.com/ghpvc/?username=xdigitexai&style=flat-square&color=00D4FF&label=PROFILE+VIEWS"/>
-</a>
-
+<div align="center">
+  <img src="assets/metrics.svg" width="100%" alt="Xdigitex AI in numbers"/>
 </div>
 
 ---
 
-# Juma Wycliffe
-
-**Founder of Xdigitex AI | Software Engineer | AI & Automation Builder**
-
-I build software systems that connect **AI, automation, APIs, payments, and infrastructure** into production-ready platforms.
-
-My work is focused on one idea:
-
-> **Turn repetitive and complex workflows into intelligent systems that can execute them automatically.**
-
-Based in East Africa, I build for businesses, developers, digital platforms, and real-world operations.
-
----
+# 🏛 About Xdigitex AI
 
 <div align="center">
 
-## X D I G I T E X   A I
+**Xdigitex Inc** is a technology & AI automation company. We design, engineer and ship production-grade software for businesses, platforms and real-world operations.
 
-`AI` · `AUTOMATION` · `SOFTWARE` · `INFRASTRUCTURE`
+`AI AGENTS` · `AUTOMATION` · `SAAS` · `PAYMENTS` · `CLOUD`
 
+We turn complex, repetitive workflows into **intelligent systems that execute on their own** — agents that call tools and APIs, platforms that move real money through double-entry ledgers, and infrastructure that provisions real machines.
+
+Founded by [**Juma Wycliffe**](https://github.com/xdigitexai) · Based in East Africa · Shipping worldwide
+
+🌐 Official portfolio → **[xdigitex.space](https://xdigitex.space)**
+
+</div>
+
+<div align="center">
+  <img src="assets/services.svg" width="100%" alt="What Xdigitex AI builds"/>
 </div>
 
 ---
 
-## What I Engineer
+# 🚀 Flagship Platforms — Live Now
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
-### AI Systems
-
-AI-powered agents that interact with tools, APIs, databases, browsers, servers, and external services.
-
-**Architecture**
-
-`LLM → Agent → Tools → Execution → Memory → Results`
-
+<a href="https://xdigitex.space"><img src="assets/project-portfolio.svg" width="49%" alt="xdigitex.space — Xdigitex AI portfolio"/></a>
+<a href="https://fx.novaspack.com"><img src="assets/project-trade.svg" width="49%" alt="Xdigitex Trade — forex trading platform"/></a>
 <br/>
-
-### Automation
-
-Software that performs multi-step operations without constant human interaction.
-
-**Examples**
-
-`API Automation`
-`Browser Automation`
-`SSH Automation`
-`Background Workers`
-`Deployment Automation`
-
-</td>
-
-<td width="50%" valign="top">
-
-### SaaS Platforms
-
-Production web applications with authentication, dashboards, APIs, databases, billing, automation, and multi-user workflows.
-
-**Architecture**
-
-`Frontend → API → Backend → Database → Workers`
-
+<a href="https://ad-plus.novaspack.com"><img src="assets/project-adpulse.svg" width="49%" alt="ADPulse 2.0 — advertising intelligence SaaS"/></a>
+<a href="https://vm.novaspack.com"><img src="assets/project-agentvm.svg" width="49%" alt="Agent Computer — cloud computers for AI agents"/></a>
 <br/>
+<a href="https://fkmbooste.site"><img src="assets/project-fkm.svg" width="49%" alt="FKM Booste — SMM automation platform"/></a>
+<a href="https://equatorvoiceafrica.com"><img src="assets/project-eva.svg" width="49%" alt="Equator Voice Africa — digital publishing platform"/></a>
 
-### Payment Infrastructure
+</div>
 
-Systems connecting applications to mobile money, cards, gateways, webhooks, transaction verification, and automated balance management.
+### More systems in production
 
-**Focus**
-
-`Payments → Webhooks → Verification → Processing → Settlement`
-
-</td>
-</tr>
-</table>
+| Platform | What it is | Stack |
+| --- | --- | --- |
+| **Xdigitex FX** | Investor operations platform wired to real Xdigitex Pay deposit & mobile-money withdrawal APIs | `Python` `Node.js` `Mobile Money` |
+| **MT5 Forex Trading System** | Demo-first, fail-closed algorithmic trading for MetaTrader 5 | `Python` `MQL5` `Docker` |
+| **Nova Host** | Bot-hosting storefront: country-aware billing, verified wallets, automated provisioning | `Next.js` `Prisma` `Billing` |
+| **Money Harbour** | Uganda-first business funding with immutable double-entry wallet ledgers | `Node.js` `UGX` `Ledger` |
+| **Ghana School Portal** | Production school management portal (P1–P6, JHS 1–3) | `PHP` `Laravel` `MySQL` |
+| **Planète Libia AI** | French-first messaging & community platform | `React` `Fastify` `Socket.IO` |
+| **Le Grand Malaba** | Social media boosting dashboard with payments & customer management | `PHP` `Twig` `MySQL` |
 
 ---
 
-# Technology
+# 🛠 Technology
 
 ### Languages
 
@@ -130,242 +92,27 @@ Systems connecting applications to mobile money, cards, gateways, webhooks, tran
 
 ### Trading & Financial Systems
 
-`MetaTrader 5` `MQL5` `Prisma` `BullMQ` `Socket.IO` `double-entry ledgers` `Pesapal` `M-Pesa` `Xdigitex Pay`
+`MetaTrader 5` `MQL5` `BullMQ` `Socket.IO` `Double-Entry Ledgers` `M-Pesa` `Pesapal` `Xdigitex Pay`
+
+<div align="center">
+  <img src="assets/marquee.svg" width="100%" alt="Tech stack"/>
+</div>
 
 ---
 
-# Featured Systems
+# 🧭 How We Engineer
 
-Production software, newest first.
+<div align="center">
 
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-## Xdigitex Trade
-
-**Forex Trading Platform Foundation**
-
-<a href="https://github.com/xdigitexai/Xdigitex-Trade">Repository →</a> · <a href="https://fx.novaspack.com">Live →</a>
-
-A production-oriented trading platform built on the Next.js App Router with a public site, an authenticated trading workspace, and a separate operations console. Financial rows use fixed-precision decimals and an immutable double-entry wallet ledger.
-
-Ships KYC workflow, Xdigitex Pay integration, broker and market-data adapter boundaries, Socket.IO realtime, BullMQ workers, browser push, and an offline PWA shell.
-
-**Fail-closed by design:** the application never fabricates prices, fills, profits, or payment confirmations. With no live provider configured, trading controls stay disabled rather than pretending.
-
-`Next.js 16` `React 19` `TypeScript` `PostgreSQL` `Prisma 7` `Redis` `BullMQ` `Socket.IO`
-
-</td>
-
-<td width="50%" valign="top">
-
-## Xdigitex FX
-
-**Investor Operations Platform**
-
-<a href="https://github.com/xdigitexai/Xdigitex-FX">Repository →</a>
-
-An investor operations platform wired to real Xdigitex Pay deposit and mobile-money withdrawal APIs. Provider references are recorded so every movement can be traced back to the provider that authorised it.
-
-The backend follows the API contract published at `pay.xdigitex.space/docs`, keeping gateway behaviour in one place instead of scattering assumptions across the codebase.
-
-`Python` `Node.js` `Xdigitex Pay` `Mobile Money` `Docker`
-
-</td>
-
-</tr>
-<tr>
-
-<td width="50%" valign="top">
-
-## ADPulse 2.0
-
-**Advertising Intelligence SaaS**
-
-<a href="https://github.com/xdigitexai/AD-Plus">Repository →</a> · <a href="https://ad-plus.novaspack.com">Live →</a>
-
-A French-first advertising intelligence platform covering campaign management, privacy-conscious link tracking, conversion attribution, analytics, and smart routing between offers.
-
-Built as a multi-tenant SaaS with server-side sessions, encrypted provider secrets, PostgreSQL persistence, and an operations surface for the accounts it runs.
-
-`Next.js` `TypeScript` `PostgreSQL` `Prisma` `Link Tracking` `Analytics`
-
-</td>
-
-<td width="50%" valign="top">
-
-## Xdigitex Agent Computer
-
-**Cloud Computers for AI Agents**
-
-<a href="https://github.com/xdigitexai/AGENT-COMPUTER-VM">Repository →</a> · <a href="https://vm.novaspack.com">Live →</a>
-
-A platform that provisions real cloud computers for AI agents: control plane, cloud console, infrastructure worker, and live compute-host integration, delivered as a pnpm monorepo.
-
-**It never reports simulated infrastructure success.** Without a configured and reachable compute host, provisioning ends in `PROVIDER_UNAVAILABLE` instead of a fake success state.
-
-`TypeScript` `Node.js` `PostgreSQL` `Redis` `Docker` `Proxmox` `pnpm Monorepo`
-
-</td>
-
-</tr>
-<tr>
-
-<td width="50%" valign="top">
-
-## MT5 Forex Trading System
-
-**Fail-Closed Algorithmic Trading**
-
-<a href="https://github.com/xdigitexai/MT5-Trading-Bot-">Repository →</a>
-
-A demo-first algorithmic trading system for MetaTrader 5. It does not promise or imply profitability, and it starts in `TRADING_MODE=demo` by default.
-
-MT5 execution is deliberately Windows-hosted behind an isolated bridge, with a Python service layer, versioned database migrations, an MQL5 expert layer, and its own monitoring dashboard.
-
-`Python` `MetaTrader 5` `MQL5` `Alembic` `Docker` `Dashboard`
-
-</td>
-
-<td width="50%" valign="top">
-
-## Nova Host
-
-**Bot Hosting Storefront & Control Centre**
-
-<a href="https://github.com/xdigitexai/Nova-Host">Repository →</a>
-
-A full-stack hosting storefront and control centre with customer authentication, country-aware billing, verified wallet deposits, and automated provisioning of customer servers.
-
-Billing is driven by a credits ledger with per-country pricing rather than fixed charges, so a customer's balance — not a hard-coded renewal date — decides whether a server keeps running.
-
-`Next.js` `TypeScript` `PostgreSQL` `Prisma` `Billing` `Provisioning`
-
-</td>
-
-</tr>
-<tr>
-
-<td width="50%" valign="top">
-
-## Money Habour
-
-**Uganda-First Business Funding**
-
-<a href="https://github.com/xdigitexai/Mega-Cash">Repository →</a>
-
-A business funding platform built for Uganda. Monetary values are stored as integer UGX amounts — no floating-point money — and balances are derived from an immutable double-entry wallet ledger rather than being edited in place.
-
-`Node.js 22+` `JavaScript` `Double-Entry Ledger` `UGX`
-
-</td>
-
-<td width="50%" valign="top">
-
-## Ghana School Portal
-
-**School Management Portal**
-
-<a href="https://github.com/xdigitexai/ghana-school-portal">Repository →</a>
-
-A production-oriented management portal covering Ghana Primary (P1–P6) and Junior High School (JHS 1–3), built phase by phase from a supplied specification with production readiness as the gate for each phase.
-
-`PHP` `Laravel` `MySQL`
-
-</td>
-
-</tr>
-<tr>
-
-<td width="50%" valign="top">
-
-## Planète Libia AI
-
-**Messaging & Community Platform**
-
-<a href="https://github.com/xdigitexai/planete-libia-ai">Repository →</a>
-
-_L'intelligence au service du peuple._
-
-A French-first React and TypeScript application with a modular Fastify API, PostgreSQL/Prisma persistence, server-managed sessions, and Socket.IO messaging.
-
-`React` `TypeScript` `Fastify` `PostgreSQL` `Prisma` `Socket.IO`
-
-</td>
-
-<td width="50%" valign="top">
-
-## Le Grand Malaba
-
-**Social Media Boosting Dashboard**
-
-<a href="https://github.com/xdigitexai/legrandmalaba">Repository →</a>
-
-A boosting dashboard for automated engagement services: service ordering, payment integration, and customer management.
-
-`PHP` `Twig` `MySQL` `Payments`
-
-</td>
-
-</tr>
-</table>
-
-### Also Running In Production
-
-| Platform | What it is | Stack |
-| --- | --- | --- |
-| [**FKM Booste**](https://fkmbooste.site) | SMM platform: automated service delivery, payments, orders, resellers, background workers | `Laravel` `PHP` `MySQL` `M-Pesa` |
-| [**Equator Voice Africa**](https://equatorvoiceafrica.com) | Digital publishing platform: editorial workflow, search, community submissions, SEO, sitemaps, AdSense | `PHP` `MySQL` `SEO` |
-
----
-
-# How I Think About Software
-
-I don't treat a project as just a website.
-
-A production system is an ecosystem:
+**Fail-closed by design.** Our systems never fabricate prices, fills, profits, payments or infrastructure state. When a provider is unreachable, the system reports it — it doesn't pretend.
 
 ```text
-                    ┌─────────────────────┐
-                    │      AI / User      │
-                    └──────────┬──────────┘
-                               │
-                               ▼
-                    ┌─────────────────────┐
-                    │    Application      │
-                    └──────────┬──────────┘
-                               │
-                 ┌─────────────┼─────────────┐
-                 ▼             ▼             ▼
-             ┌───────┐     ┌───────┐     ┌───────┐
-             │ APIs  │     │  DB   │     │ Tools │
-             └───┬───┘     └───────┘     └───┬───┘
-                 │                           │
-                 └─────────────┬─────────────┘
-                               ▼
-                    ┌─────────────────────┐
-                    │    Automation       │
-                    │     Workers         │
-                    └──────────┬──────────┘
-                               │
-                               ▼
-                    ┌─────────────────────┐
-                    │ Infrastructure      │
-                    │ Linux / VPS / Cloud │
-                    └─────────────────────┘
+Task → Understand → Plan → Select Tools → Execute → Observe → Recover → Complete
 ```
 
-The goal is not simply to make software **work once**.
+`repeatable → observable → automated → maintainable → scalable`
 
-The goal is to make it:
-
-**repeatable → observable → automated → maintainable → scalable**
-
----
-
-# Engineering Areas
+</div>
 
 | Area | Focus |
 | --- | --- |
@@ -380,122 +127,48 @@ The goal is to make it:
 
 ---
 
-# Currently Building
-
-The most active work sits in two places: **financial platforms that refuse to fake success**, and **infrastructure that provisions real machines for AI agents**.
-
-```text
-Task
- ↓
-Understand
- ↓
-Plan
- ↓
-Select Tools
- ↓
-Execute
- ↓
-Observe
- ↓
-Recover
- ↓
-Complete
-```
-
-Key areas:
-
-* Multi-tool agent orchestration
-* Real compute provisioning for agents
-* Trading platforms with provider-bound execution
-* Double-entry ledgers for every money movement
-* Country-aware billing and credits
-* Payment gateways with server-side verification
-* Background workers, queues, and reconciliation
-
----
-
-# Building In Public
+# 📈 Building In Public
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=xdigitexai&show_icons=true&hide_border=true&theme=github_dark&title_color=00D4FF&icon_color=00D4FF&text_color=8B949E&bg_color=0D1117" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=xdigitexai&show_icons=true&hide_border=true&theme=github_dark&title_color=00D4FF&icon_color=00D4FF&text_color=8B949E&bg_color=0D1117" height="170" alt="GitHub stats"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xdigitexai&layout=compact&hide_border=true&theme=github_dark&title_color=00D4FF&text_color=8B949E&bg_color=0D1117" height="170"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=xdigitexai&theme=dark&hide_border=true&background=0D1117&ring=00D4FF&fire=7C3AED&currStreakLabel=00D4FF&sideLabels=8B949E&dates=8B949E" />
-
-</div>
-
----
-
-# GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=xdigitexai&bg_color=0D1117&color=8B949E&line=00D4FF&point=FFFFFF&area=true&hide_border=true" width="100%"/>
-
-</div>
-
----
-
-# Xdigitex AI
-
-<div align="center">
-
-### Software should not just respond.
-
-### **It should execute.**
-
-<br/>
-
-<a href="https://github.com/xdigitexai?tab=repositories">
-
-<img src="https://img.shields.io/badge/EXPLORE_XDIGITEX_AI-00D4FF?style=for-the-badge&logo=github&logoColor=black"/>
-
-</a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xdigitexai&layout=compact&hide_border=true&theme=github_dark&title_color=00D4FF&text_color=8B949E&bg_color=0D1117" height="170" alt="Top languages"/>
 
 <br/><br/>
 
-<a href="https://github.com/xdigitexai">
-<img src="https://img.shields.io/github/followers/xdigitexai?style=social"/>
-</a>
-
-</div>
-
----
-
-# Connect
-
-<div align="center">
-
-<a href="https://github.com/xdigitexai">
-<img src="https://img.shields.io/badge/GitHub-XdigitexAI-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://github.com/xdigitexai?tab=repositories">
-<img src="https://img.shields.io/badge/Repositories-Latest%20Work-00D4FF?style=for-the-badge&logo=git&logoColor=white"/>
-</a>
-
-<a href="https://fkmbooste.site">
-<img src="https://img.shields.io/badge/Live-FKM%20Booste-7C3AED?style=for-the-badge"/>
-</a>
-
-<a href="https://equatorvoiceafrica.com">
-<img src="https://img.shields.io/badge/Live-Equator%20Voice-00D4FF?style=for-the-badge"/>
-</a>
+<img src="https://streak-stats.demolab.com?user=xdigitexai&theme=dark&hide_border=true&background=0D1117&ring=00D4FF&fire=7C3AED&currStreakLabel=00D4FF&sideLabels=8B949E&dates=8B949E" alt="Commit streak"/>
 
 </div>
 
 ---
 
 <div align="center">
+  <a href="https://xdigitex.space"><img src="assets/cta.svg" width="100%" alt="Let's build together — xdigitex.space"/></a>
+</div>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&width=700&lines=Build+systems.+Automate+work.+Ship+to+production.;Xdigitex+AI+%7C+East+Africa;Juma+Wycliffe+%E2%80%94+2026" />
+---
+
+# 📬 Connect
+
+<div align="center">
+
+<a href="https://github.com/xdigitexai"><img src="https://img.shields.io/badge/GitHub-XdigitexAI-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
+<a href="https://xdigitex.space"><img src="https://img.shields.io/badge/Portfolio-xdigitex.space-7C3AED?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio"/></a>
+<a href="mailto:xdigitexai@gmail.com"><img src="https://img.shields.io/badge/Email-xdigitexai%40gmail.com-00D4FF?style=for-the-badge&logo=gmail&logoColor=black" alt="Email"/></a>
 
 <br/><br/>
 
-`Xdigitex AI` · `Software Engineering` · `Artificial Intelligence` · `Automation`
+<a href="https://fx.novaspack.com"><img src="https://img.shields.io/badge/Live-Xdigitex%20Trade-00D4FF?style=for-the-badge" alt="Xdigitex Trade"/></a>
+<a href="https://ad-plus.novaspack.com"><img src="https://img.shields.io/badge/Live-ADPulse%202.0-7C3AED?style=for-the-badge" alt="ADPulse 2.0"/></a>
+<a href="https://vm.novaspack.com"><img src="https://img.shields.io/badge/Live-Agent%20Computer-00D4FF?style=for-the-badge" alt="Agent Computer"/></a>
+<a href="https://fkmbooste.site"><img src="https://img.shields.io/badge/Live-FKM%20Booste-7C3AED?style=for-the-badge" alt="FKM Booste"/></a>
+<a href="https://equatorvoiceafrica.com"><img src="https://img.shields.io/badge/Live-Equator%20Voice-00D4FF?style=for-the-badge" alt="Equator Voice Africa"/></a>
 
+</div>
+
+---
+
+<div align="center">
+  <img src="assets/footer.svg" width="100%" alt="Xdigitex AI"/>
 </div>

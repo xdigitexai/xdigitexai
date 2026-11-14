@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 200" width="1200" height="200">
+<defs>
+  <linearGradient id="shim" gradientUnits="objectBoundingBox" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#00d4ff"/><stop offset=".5" stop-color="#a78bfa"/><stop offset="1" stop-color="#00d4ff"/>
+    <animate attributeName="x1" values="-0.4;1.4;-0.4" dur="6s" repeatCount="indefinite"/>
+    <animate attributeName="x2" values="0;1.8;0" dur="6s" repeatCount="indefinite"/>
+  </linearGradient>
+  <style>
+    
+  .pt { animation-name: fl; animation-timing-function: ease-in-out; animation-iteration-count: infinite; animation-direction: alternate; }
+  @keyframes fl { from { transform: translateY(8px); opacity: .15; } to { transform: translateY(-30px); opacity: .85; } }
+    .t { animation: rise .7s ease both; }
+    @keyframes rise { from { opacity: 0; transform: translateY(12px); } to { opacity: 1; transform: translateY(0); } }
+  </style>
+</defs>
+<circle class="pt" cx="721" cy="90" r="2.7049315869808197" fill="#00d4ff" style="animation-duration:8s;animation-delay:-5s" opacity="0.4"/>
+  <circle class="pt" cx="328" cy="125" r="2.730949296616018" fill="#7c3aed" style="animation-duration:8s;animation-delay:-9s" opacity="0.4"/>
+  <circle class="pt" cx="895" cy="61" r="1.39450767589733" fill="#00d4ff" style="animation-duration:13s;animation-delay:-6s" opacity="0.4"/>
+  <circle class="pt" cx="5" cy="94" r="2.674674851819873" fill="#7c3aed" style="animation-duration:12s;animation-delay:0s" opacity="0.4"/>
+  <circle class="pt" cx="320" cy="12" r="1.3713780143298209" fill="#00d4ff" style="animation-duration:11s;animation-delay:0s" opacity="0.4"/>
+  <circle class="pt" cx="208" cy="169" r="1.9754798347130418" fill="#00d4ff" style="animation-duration:9s;animation-delay:-4s" opacity="0.4"/>
+<g class="t">
+  <text x="600" y="66" text-anchor="middle" font-family="system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="23" font-weight="600" font-style="italic" fill="url(#shim)">Software should not just respond — it should execute.</text>
+</g>
+
+  <text x="600" y="118" text-anchor="middle" font-family="'Cascadia Code','SF Mono',Consolas,Menlo,monospace" font-size="15.5" fill="#8b949e" opacity="0">Build systems. Automate work. Ship to production.<animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.03;0.3;0.333;1" dur="9s" begin="0.00;9.00;18.00;27.00;36.00;45.00;54.00;63.00;72.00;81.00;90.00;99.00"/></text>
+  <text x="600" y="118" text-anchor="middle" font-family="'Cascadia Code','SF Mono',Consolas,Menlo,monospace" font-size="15.5" fill="#8b949e" opacity="0">Xdigitex AI · East Africa · Worldwide<animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.03;0.3;0.333;1" dur="9s" begin="3.00;12.00;21.00;30.00;39.00;48.00;57.00;66.00;75.00;84.00;93.00;102.00"/></text>
+  <text x="600" y="118" text-anchor="middle" font-family="'Cascadia Code','SF Mono',Consolas,Menlo,monospace" font-size="15.5" fill="#8b949e" opacity="0">Juma Wycliffe — Founder · Xdigitex Inc<animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.03;0.3;0.333;1" dur="9s" begin="6.00;15.00;24.00;33.00;42.00;51.00;60.00;69.00;78.00;87.00;96.00;105.00"/></text>
+<g class="t" style="animation-delay:.4s">
+  <rect x="525" y="142" width="150" height="2" rx="1" fill="url(#shim)" opacity=".7"/>
+  <text x="600" y="180" text-anchor="middle" font-family="'Cascadia Code','SF Mono',Consolas,Menlo,monospace" font-size="12.5" fill="#8b949e">© 2026 Xdigitex Inc · github.com/xdigitexai · xdigitex.space</text>
+</g>
+</svg>
